@@ -6,3 +6,6 @@ It was a class explained by Professor Dr. Jose Ricardo Gonçalves de Mendonça o
 The problem is calculate the alpha value, i.e., the probability that any noise happens in the Wolfram rule (1d).
 
 These scripts are the first step to check the transformation from rule in (before noise) to rule out (after noise).
+
+
+Fell free to contact me by email: milton.dsantos1701@gmail.com
